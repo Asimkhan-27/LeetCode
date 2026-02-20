@@ -4,8 +4,6 @@ This repository contains my solutions to various LeetCode problems, organized by
 
 🚀 What You'll Find
 
-✅ Solutions categorized by topic (Arrays, Strings, Linked Lists, Trees, Graphs, DP, etc.)
-
 ✅ Optimized and readable code
 
 ✅ Multiple approaches where applicable
